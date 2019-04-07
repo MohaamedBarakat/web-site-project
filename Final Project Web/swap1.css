@@ -1,0 +1,109 @@
+img,div{
+	width:500px;
+	height: 500px;
+	position: relative;
+}
+.left{
+	position:;
+	top:50%;
+	left:0;
+}
+.right{
+	position: ;
+	top:50%;
+	right:0;
+}
+img{
+	display: none;
+}
+
+
+
+/*img,div{
+	width:500px;
+	height: 500px;
+	position: relative;
+}
+.left{
+	position:absolute;
+	top:50%;
+	left:0;
+}
+.right{
+	position: absolute;
+	top:50%;
+	right:0;
+}
+img{
+	display: none;
+}*/
+/*<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="swap1.css">
+<title></title>
+</head>
+<body>
+	<center>
+		<div >
+			<img src="45138170_2409210639121440_1007449575016890368_o.jpg" class="in" >
+			<img src="logo-1.png" class="in" >
+			<img src="7D6A0501-640x350.jpg" class="in" >
+			<button class="left" onclick="plusimg(-1)"><</button>
+			<button class="right" onclick="plusimg(+1)">></button>
+		</div>
+	</center>
+	<script>
+var x=document.getElementsByClassName('in');
+x[0].style.display="block";
+var index=0;
+function plusimg(n){
+index+=n;
+for(var i=0;i<x.length;i++){
+	x[i].style.display="none";
+}
+
+if(index<0){index=x.length-1;}
+if(index==x.length){index=0;}
+x[index].style.display="block";
+}
+	</script>
+	
+</body>
+
+/*<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="swap1.css">
+<title></title>
+</head>
+<body>
+	<center>
+		<div >
+			<img src="45138170_2409210639121440_1007449575016890368_o.jpg" class="in" >
+			<img src="logo-1.png" class="in" >
+			
+			<button class="left" onclick="plusimg(-1)">1</button>
+			<button class="right" onclick="plusimg(+1)">2</button>
+		</div>
+	</center>
+	<script>
+var x=document.getElementsByClassName('in');
+x[0].style.display="block";
+var index=0;
+function plusimg(n){
+index+=n;
+for(var i=0;i<x.length;i++){
+	x[i].style.display="none";
+}
+
+if(n==1){
+x[1].style.display="block";
+}
+if(n==-1)
+x[0].style.display="block";
+
+}
+	</script>
+	
+</body>
+</html1*/
+/*<meta http-equiv="refresh" content="2"/>*/

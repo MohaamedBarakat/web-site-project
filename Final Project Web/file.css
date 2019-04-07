@@ -1,0 +1,153 @@
+.mm{background-image:linear-gradient(red,black);}
+#kotkot{background-image:linear-gradient(red,white);
+text-transform: center;
+}
+
+.dropbtn {
+  background-color: red;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 15px;
+  width: 100px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+   
+border-radius: 15px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: red;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 15px;
+ 
+
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-radius: 15px;
+   
+}
+
+.dropdown-content a:hover {background-color: red;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  border-radius: 15px;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: red;
+}
+.tabb{
+  text-align: center;
+  position: center;
+}
+#tab{
+float:right;
+}
+
+/*.oo:hover{border-radius: 10px;
+  height: 100px;
+  width: 200px;
+background-color: blue;
+animation-name:y;
+animation-duration:50s;
+animation-iteration-count:1;
+animation-direction:alternate;
+}
+@keyframes y {from{width :100px;}
+to{width: 110px ;}}*/
+#hh{
+ background-image:radial-gradient(white,gray);
+}
+.bb{
+  border-radius: 20px;
+}
+
+.ii{
+    background-image:linear-gradient(red,black);
+    border-radius: 20px;
+    text-transform: center;
+    width: 300px;
+    color: white;
+}
+.in{
+
+border-radius: 15px;
+  height: 300px;
+  width: 650px;
+background-color: red;
+animation-name:y;
+animation-duration:5s;
+animation-iteration-count:1;
+animation-direction:alternate;
+}
+@keyframes y {from{width :500px;}
+to{width: 650px ;}}
+.ii1{
+    background-image:linear-gradient(red,black);
+    border-radius: 20px;
+    text-transform: center;
+    width: 300px;
+    color: white;
+    float: right;
+    margin-top: -160px; 
+}
+.ii12{
+    background-image:linear-gradient(red,black);
+    border-radius: 20px;
+    text-transform: center;
+    width: 300px;
+    color: white;
+    float: right;
+    margin-top: -195px; 
+}
+.h3{
+  background-image:linear-gradient(white,red);
+    border-radius: 20px;
+    text-transform: center;
+    width: 300px;
+    color: black;
+   
+
+}
+.h3{
+  background-image:linear-gradient(white,red);
+    border-radius: 20px;
+    text-transform: center;
+    width: 300px;
+    color: black;
+   
+
+}
+.h33{
+ background-image:linear-gradient(white,gray);
+    border-radius: 20px;
+    
+    width: 250px;
+    color: black; 
+    float: center;
+}
+.h333{
+ background-image:linear-gradient(white,gray);
+    border-radius: 20px;
+    
+    width: 100px;
+    color: black; 
+    float: center;
+}
+/*overflow: hidden;*/

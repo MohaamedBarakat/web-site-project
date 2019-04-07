@@ -1,0 +1,51 @@
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: url("../fonts/OpenSans-Regular.ttf") format('ttf'); 
+	src: url("../fonts/OpenSans-Regular.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Strait';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Strait-Regular.woff") format('woff');
+  src: url("../fonts/Strait-Regular.ttf") format('ttf'); 
+}
+
+@font-face {
+  font-family: 'Kreon';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Kreon-Regular.woff") format('woff');
+  src: url("../fonts/Kreon-Regular.ttf") format('ttf'); 
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Lato-Regular.woff") format('woff');
+  src: url("../fonts/Lato-Regular.ttf") format('ttf'); 
+}
+
+@font-face {
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Scada-Regular.woff") format('woff');
+  src: url("../fonts/Scada-Regular.ttf") format('ttf'); 
+}
+
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/FjallaOne-Regular.woff") format('woff');
+  src: url("../fonts/FjallaOne-Regular.ttf") format('ttf'); 
+}
+
+body{
+	background-color:green;
+}
